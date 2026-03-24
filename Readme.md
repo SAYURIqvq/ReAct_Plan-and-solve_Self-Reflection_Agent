@@ -2,11 +2,8 @@
 
   一个轻量级、模块化、具备**自我进化**能力的 ReAct（Reasoning + Acting）+ Plan-and-solve + self-Reflection 的AI 代理系统。
 一个轻量级、模块化的 LLM Agent 系统，融合推理（ReAct）、任务规划（Plan-and-Solve）与自反思机制（Self-Reflection），支持多步骤任务的自主执行与持续优化。
-
-</div>
 ---
 
-### 近期变更
 ## 近期更新
 
 1. **模型服务切换**
