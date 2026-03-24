@@ -1,4 +1,3 @@
-# miniagent
 # ReAct_Plan-and-solve_Self-Reflection_Agent
 
   一个轻量级、模块化、具备**自我进化**能力的 ReAct（Reasoning + Acting）+ Plan-and-solve + self-Reflection 的AI 代理系统。
